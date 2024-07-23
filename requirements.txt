@@ -176,6 +176,7 @@ langchain-community==0.0.16
 langchain-core==0.1.17
 langchain-experimental==0.0.8
 langchain-openai==0.0.5
+langchain-pinecone==0.0.3
 langchainhub==0.1.14
 langchainplus-sdk==0.0.11
 langdetect==1.0.9
@@ -220,7 +221,7 @@ notebook_shim==0.2.3
 numexpr==2.8.5
 numpy==1.24.4
 onnxruntime==1.16.1
-openai==1.6.0
+openai==1.37.0
 openapi-core==0.18.2
 openapi-schema-pydantic==1.2.4
 openapi-schema-validator==0.6.2
@@ -254,7 +255,8 @@ pathspec==0.11.2
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==10.1.0
-pinecone-client==2.2.4
+pinecone==4.0.0
+pinecone-client==3.2.2
 pkginfo==1.9.6
 platformdirs==3.10.0
 playwright==1.42.0
