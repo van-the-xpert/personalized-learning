@@ -1,0 +1,6 @@
+Agent Stuff
+- Too many contexts at a time
+- Change Openai call to langchain to make sure JSON output
+
+Streamlit Stuff
+- Need to modify the display of conversation
